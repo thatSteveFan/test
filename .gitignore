@@ -67,3 +67,5 @@ $RECYCLE.BIN/
 *.lnk
 *.properties
 *.xml
+*.mf
+.gitignore
